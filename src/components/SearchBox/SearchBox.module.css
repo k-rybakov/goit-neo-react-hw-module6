@@ -1,0 +1,11 @@
+.searchbox {
+  margin-top: 20px;
+}
+
+.searchbox p {
+  margin: 0;
+}
+
+.searchbox input {
+  min-width: 232px;
+}

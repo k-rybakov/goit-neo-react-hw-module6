@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  min-width: 220px;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.detail {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+}
+
+.card button {
+  padding: 3px;
+}
